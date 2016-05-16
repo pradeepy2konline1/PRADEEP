@@ -1,0 +1,2 @@
+SELECT * from Agreement union 
+select * from Agreement;
